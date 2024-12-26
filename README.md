@@ -4,7 +4,7 @@ This React application demonstrates an Infinite Scroll feature that fetches data
 ### Features
 - Dynamically loads data using Axios.
 - Displays a loading indicator during data fetching.
-- Connects to an API for incremental data loading
+- Connects to an API for incremental data loading.
   
 ### Installation
 
