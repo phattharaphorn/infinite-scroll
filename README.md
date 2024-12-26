@@ -29,9 +29,6 @@ npm start
 4. Open the browser at http://localhost:3000.
   
 ### API Used
-Data is fetched from:
 
-JSONPlaceholder Posts API
-```
-https://jsonplaceholder.typicode.com/posts?_page=${page}&_limit=10
-```
+JSONPlaceholder Posts API: https://jsonplaceholder.typicode.com/posts?_page=${page}&_limit=10
+
